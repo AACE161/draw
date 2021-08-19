@@ -1,0 +1,203 @@
+[
+  [
+    {
+      "name": "Manchester City FC",
+      "country": "England",
+      "bertName": "Manchester City FC",
+      "coefficient": 120
+    },
+    {
+      "name": "Arsenal FC",
+      "country": "England",
+      "bertName": "Arsenal FC",
+      "coefficient": 120
+    },
+    {
+      "name": "Real Madrid CF",
+      "country": "Spain",
+      "bertName": "Real Madrid CF",
+      "coefficient": 120
+    },
+    {
+      "name": "FC Bayern München",
+      "country": "Germany",
+      "bertName": "FC Bayern München",
+      "coefficient": 120
+    },
+    {
+      "name": "Atalanta BC",
+      "country": "Italy",
+      "bertName": "Atalanta BC",
+      "coefficient": 120
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "country": "France",
+      "bertName": "Paris Saint-Germain",
+      "coefficient": 120
+    },
+    {
+      "name": "FC Porto",
+      "country": "Portugal",
+      "bertName": "FC Porto",
+      "coefficient": 120
+    },
+    {
+      "name": "AFC Ajax",
+      "country": "Netherlands",
+      "bertName": "AFC Ajax",
+      "coefficient": 120
+    }
+  ],
+  [
+    {
+      "name": "Manchester United",
+      "country": "England",
+      "bertName": "Manchester United",
+      "coefficient": 100
+    },
+    {
+      "name": "Club Atlético de Madrid",
+      "country": "Spain",
+      "bertName": "Club Atlético de Madrid",
+      "coefficient": 100
+    },
+    {
+      "name": "Sevilla FC",
+      "country": "Spain",
+      "bertName": "Sevilla FC",
+      "coefficient": 100
+    },
+    {
+      "name": "Borussia Dortmund",
+      "country": "Germany",
+      "bertName": "Borussia Dortmund",
+      "coefficient": 100
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "country": "England",
+      "bertName": "Tottenham Hotspur",
+      "coefficient": 100
+    },
+    {
+      "name": "FC Shakhtar Donetsk",
+      "country": "Ukraine",
+      "bertName": "FC Shakhtar Donetsk",
+      "coefficient": 100
+    },
+    {
+     "name": "Villarreal CF",
+      "country": "Spain",
+      "bertName": "Villarreal CF",
+      "coefficient": 100
+    },
+    {
+     
+     "name": "SSC Napoli",
+      "country": "Italy",
+      "bertName": "SSC Napoli",
+      "coefficient": 100
+   }
+  ],
+  [
+    {
+      "name": "FC Salzburg",
+      "country": "Austria",
+      "bertName": "FC Salzburg",
+      "coefficient": 80
+    },
+    {
+      "name": "FC Internazionale Milano",
+      "country": "Italy",
+      "bertName": "FC Internazionale Milano",
+      "coefficient": 80
+    },
+    {
+      "name": "Sporting Clube de Portugal",
+      "country": "Portugal",
+      "bertName": "Sporting Clube de Portugal",
+      "coefficient": 80
+    },
+    {
+      "name": "AC Milan",
+      "country": "Italy",
+      "bertName": "AC Milan",
+      "coefficient": 80
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "country": "Germany",
+      "bertName": "Eintracht Frankfurt",
+      "coefficient": 80
+    },
+    {
+      "name": "Club Brugge",
+      "country": "Belgium",
+      "bertName": "Club Brugge",
+      "coefficient": 80
+    },
+    {
+      "name": "Rangers FC",
+      "country": "Scotland",
+      "bertName": "Rangers FC",
+      "coefficient": 80
+    },
+    {
+      "name": "Olympique de Marseille",
+      "country": "France",
+      "bertName": "Olympique de Marseille",
+      "coefficient": 80
+    }
+  ],
+  [
+    {
+      "name": "PSV Eindhoven",
+      "country": "Netherlands",
+      "bertName": "PSV Eindhoven",
+      "coefficient": 60
+    },
+    {
+      "name": "Leicester City FC",
+      "country": "England",
+      "bertName": "Leicester City FC",
+      "coefficient": 60
+    },
+    {
+      "name": "FC Krasnodar",
+      "country": "Russia",
+      "bertName": "FC Krasnodar",
+      "coefficient": 60
+    },
+    {
+      "name": "Losc Lille",
+      "country": "France",
+      "bertName": "Club Brugge",
+      "coefficient": 60
+    },
+    {
+      "name": "FCSB",
+      "country": "Romania",
+      "bertName": "FCSB",
+      "coefficient": 60
+    },
+    {
+      "name": "Fenerbahçe SK",
+      "country": "Turkey",
+      "bertName": "Fenerbahçe SK",
+      "coefficient": 60
+    },
+    {
+      "name": "SC Freiburg",
+      "country": "Germany",
+      "bertName": "SC Freiburg",
+      "coefficient": 60
+    },
+    {
+      "name": "Trabzonspor AŞ",
+      "country": "Turkey",
+      "bertName": "Trabzonspor AŞ",
+      "coefficient": 60
+    }
+  ]
+]
